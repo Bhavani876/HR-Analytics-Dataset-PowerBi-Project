@@ -1,12 +1,5 @@
 # HR-Analytics-Dataset-PowerBi-Project
 
-
-
-![Screenshot (300)](https://github.com/Bhavani876/HR-Analytics-Dataset-PowerBi-Project/assets/122962752/5726ea42-37f5-4531-9699-b7d73bc66779)
-
-
-
-
 ###
 
 <h2 align="left">Poject Description:</h2>
@@ -14,6 +7,22 @@
 ###
 
 <p align="left">HR Analytics aids in interpreting organizational data, identifying people-related trends, and empowering the HR Department to implement strategic measures to ensure the smooth and profitable operation of the organization. Addressing attrition, a complex challenge in corporate settings, requires effective management by both people managers and HR personnel.</p>
+
+
+![Screenshot (300)](https://github.com/Bhavani876/HR-Analytics-Dataset-PowerBi-Project/assets/122962752/5726ea42-37f5-4531-9699-b7d73bc66779)
+
+Schme:
+![Screenshot 2024-05-11 233609](https://github.com/Bhavani876/HR-Analytics-Dataset-PowerBi-Project/assets/122962752/9e63f2bb-f979-44ee-ada1-81b43f5c1206)
+
+Human Resources:
+![Screenshot 2024-05-11 233034](https://github.com/Bhavani876/HR-Analytics-Dataset-PowerBi-Project/assets/122962752/158257b1-965c-4431-87a2-2426a80d7c6a)
+
+Reasearch and Developnment:
+![Screenshot 2024-05-11 233407](https://github.com/Bhavani876/HR-Analytics-Dataset-PowerBi-Project/assets/122962752/693c7de3-36b2-4f3a-9966-56b09b4f1d14)
+
+Sales:![Screenshot 2024-05-11 233518](https://github.com/Bhavani876/HR-Analytics-Dataset-PowerBi-Project/assets/122962752/d8d8131c-12eb-4fbc-9dfe-12bee1a874cd)
+
+
 
 ###
 
